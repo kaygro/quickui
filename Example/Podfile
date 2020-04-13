@@ -1,0 +1,11 @@
+use_frameworks!
+platform :ios,"12.0"
+target 'quickui_Example' do
+  pod 'quickui', :path => '../'
+
+  target 'quickui_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - quickui (0.0.1)
+
+DEPENDENCIES:
+  - quickui (from `../`)
+
+EXTERNAL SOURCES:
+  quickui:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  quickui: 4d01ffb64f4b9f05ee67c4230725d3888caa2ff2
+
+PODFILE CHECKSUM: a518406eee0a6e93a5f3a3fe0ffe14f9ce9dbcf8
+
+COCOAPODS: 1.9.1

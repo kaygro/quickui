@@ -1,0 +1,6 @@
+framework module quickui {
+  umbrella header "quickui-umbrella.h"
+
+  export *
+  module * { export * }
+}
